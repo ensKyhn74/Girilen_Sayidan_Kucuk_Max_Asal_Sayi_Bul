@@ -1,0 +1,1 @@
+# Girilen_Sayidan_Kucuk_Max_Asal_Sayi_Bul
